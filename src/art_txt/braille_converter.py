@@ -1,4 +1,4 @@
-from .base_converter import BaseConverter
+from base_converter import BaseConverter
 
 DOT_POSITIONS = [
                     (0, 0), (0, 1), (0, 2), (1, 0), 

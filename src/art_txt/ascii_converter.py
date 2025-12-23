@@ -1,4 +1,4 @@
-from .base_converter import BaseConverter
+from base_converter import BaseConverter
 from typing import cast, Sequence
 
 #Chars that will be used

@@ -1,6 +1,6 @@
-from .ascii_converter import AsciiConverter
-from .braille_converter import BrailleConverter
-from .cli_tool import ArgParser
+from ascii_converter import AsciiConverter
+from braille_converter import BrailleConverter
+from cli_tool import ArgParser
 
 def main():
     args = ArgParser().parse()
