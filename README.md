@@ -6,18 +6,22 @@ It supports grayscale and colored output, and can generate both ASCII and Braill
 
 ## Installation
 Using pip:
-    pip install art-txt
+    `pip install art-txt`
 
 or clone git repo:
-    https://github.com/llGustavsson/art-txt.git
+    `https://github.com/llGustavsson/art-txt.git`
 
 ## Command example
-Example: art-txt img_file_path --type --size --invert
+Example: 
+    `art-txt img_file_path --type --size --invert`
 
 type-default: ASCII
+
 size-default: 100
+
 invert-default: False
 
 automatic saves the output in .txt
+
 save-deafult: ~/arts_results
 
